@@ -1,4 +1,4 @@
-=== Eloqua Forms ===
+**Eloqua Forms**
 
 Contributors: Cody Boyte, Ryan Ghods
 Tags: forms, eloqua
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Eloqua Forms is a simple plugin that imports all forms from an Eloqua instance into a custom Form post type. 
 
-== Description ==
+**Description**
 
 This is a fairly simple plugin. It adds a custom post type, Eloqua Forms, and has a function to import the forms
 from the Eloqua API. 
@@ -28,14 +28,14 @@ Shortcode `[show_form]` attributes:
 It currently utilizes login credentials hardcoded in the plugin itself, using Eloqua Basic Authentication. This
 will be changed in future iterations to use the OAuth2 protocol.  
 
-== Installation ==
+**Installation**
 
 1. Edit eloqua-form-constants.php and update with your own credentials
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Use shortcode wherever you'd like forms or integrate with Advanced Custom Fields to inject forms wherever you'd like
 
-== Changelog ==
+**Changelog**
 
 = 1.0 =
 * Created initial plugin using Basic Authentication
