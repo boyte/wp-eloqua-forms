@@ -1,12 +1,12 @@
 **Eloqua Forms**
 
-Contributors: Cody Boyte, Ryan Ghods
-Tags: forms, eloqua
-Requires at least: 3.0.1
-Tested up to: 4.24
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+- Contributors: Cody Boyte, Ryan Ghods
+- Tags: forms, eloqua
+- Requires at least: 3.0.1
+- Tested up to: 4.24
+- Stable tag: 1.0
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 Eloqua Forms is a simple plugin that imports all forms from an Eloqua instance into a custom Form post type. 
