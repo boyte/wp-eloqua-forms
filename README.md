@@ -41,3 +41,6 @@ will be changed in future iterations to use the OAuth2 protocol.
 = 1.0 =
 * Created initial plugin using Basic Authentication
 * Includes shortcode and custom javascript injections
+
+**Credit**
+The plugin was variously written and edited by employees at [Axial](https://www.axial.net/) and [Jornaya](https://www.jornaya.com/).
