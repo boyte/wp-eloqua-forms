@@ -31,7 +31,8 @@ will be changed in future iterations to use the OAuth2 protocol.
 
 **Installation**
 
-1. Edit eloqua-form-constants.php and update with your own credentials
+1. Edit line 41 of eloqua-forms.php and update with your own credentials
+1. Zip all files into a single directory called wp-eloqua-forms
 1. Upload `wp-eloqua-forms` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Use shortcode wherever you'd like forms or integrate with Advanced Custom Fields to inject forms wherever you'd like
