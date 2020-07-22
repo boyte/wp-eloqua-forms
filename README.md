@@ -9,7 +9,8 @@
 - License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Eloqua Forms is a simple plugin that imports all forms from an Eloqua instance into a custom Form post type. 
+Eloqua Forms is a simple plugin that imports all forms from an Eloqua instance into a custom Form post type.
+_Please note that this plugin is not currently being developed or maintained, though it should still work._
 
 **Description**
 
