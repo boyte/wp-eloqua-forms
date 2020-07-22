@@ -32,7 +32,7 @@ will be changed in future iterations to use the OAuth2 protocol.
 **Installation**
 
 1. Edit eloqua-form-constants.php and update with your own credentials
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload `wp-eloqua-forms` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Use shortcode wherever you'd like forms or integrate with Advanced Custom Fields to inject forms wherever you'd like
 
@@ -43,4 +43,5 @@ will be changed in future iterations to use the OAuth2 protocol.
 * Includes shortcode and custom javascript injections
 
 **Credit**
-The plugin was variously written and edited by employees at [Axial](https://www.axial.net/) and [Jornaya](https://www.jornaya.com/).
+
+The plugin was variously written and edited at [Axial](https://www.axial.net/) and [Jornaya](https://www.jornaya.com/).
