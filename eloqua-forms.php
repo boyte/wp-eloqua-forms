@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Eloqua Forms
-Plugin URI: http://www.growlot.com/
+Plugin URI: https://github.com/boyte/wp-eloqua-forms
 Description: Basic plugin that imports forms from Eloqua into a custom post type in Wordpress. 
 Version: 1.0
 Author: Cody Boyte
-Author URI: http://www.growlot.com
+Author URI: https://github.com/boyte/
 License: GPL
 */
 
